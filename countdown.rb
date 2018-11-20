@@ -1,9 +1,9 @@
 def countdown(number)
   while number > 0 do
     if number == 1
-      puts "#{number} Seconds"
+      puts "#{number} SECOND!"
     else
-    puts "#{number} SECOND(S)!"
+    puts "#{number} SECOND'S!"
     end
     number -= 1
   end
